@@ -10,7 +10,7 @@
   ul li a{
     font-size: 39px;
     color: rgb(0, 0, 0);
-    background:#2286589c;
+    background:  #F1F1F1  ;
     font-style:italic ;
     text-decoration: none;
     padding: 20 39px;
@@ -23,19 +23,21 @@ pre{
 p{
   text-align: center;
   font-size: 35px;
-  background-color: rgba(146, 189, 29, 0.5);
+  background-color: rgba(99, 114, 59, 0.5);
 }
 
 
 h1{
-  background-color: rgb(134, 238, 165);
-  
+  width: 320px;
+  background-color: rgba(172, 165, 41, 0.301);
 }
 h3{
-  border: 5px solid rgb(125, 175, 9);
+  
+  border: 5px solid rgba(99, 74, 74, 0.795);
 }
 h2{
-  background-color: aquamarine;
+  width: 250px;
+  background-color:rgba(128, 128, 128, 0.575);
 }
 
 div{
